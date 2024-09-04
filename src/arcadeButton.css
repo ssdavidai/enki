@@ -1,0 +1,26 @@
+.arcade-button {
+    display: inline-block;
+    padding: 20px 40px;
+    font-size: 24px;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #e74c3c;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #c0392b;
+    transition: all 0.1s;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  .arcade-button:hover {
+    background-color: #c0392b;
+  }
+  
+  .arcade-button:active {
+    background-color: #c0392b;
+    box-shadow: 0 5px #95a5a6;
+    transform: translateY(4px);
+  }
