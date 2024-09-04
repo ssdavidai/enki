@@ -33,7 +33,7 @@ The Enki World Simulator is a virtual ecosystem where creatures live, evolve, an
 
 2. **Start the backend server**:
     ```bash
-    python -m enki_simulator.api
+    python -m src.api
     ```
 
 3. **Start the frontend development server**:
